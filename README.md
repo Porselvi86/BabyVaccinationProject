@@ -7,17 +7,27 @@ The system helps store information about babies, parents, vaccines, hospitals, a
 🚀 Features:
 
 👶 Manage baby details
+
 👨‍👩‍👧 Manage parent information
+
 💉 Store and manage vaccine details
+
 🏥 Maintain hospital information
+
 📅 Manage vaccination appointments
+
 📋 Track vaccination history
+
 🔍 Retrieve vaccination details easily
 
 🛠️ Technologies Used:
+
   *Java
+  
   *MySQL
+  
   *JDBC
+  
   *SQL
   
 🗄️ Database:
@@ -25,10 +35,15 @@ The system helps store information about babies, parents, vaccines, hospitals, a
 The project uses MySQL as the database.
 
 Main tables include:
+
   1.Baby
+  
   2.Parent
+  
   3.Vaccine
+  
   4.Appointment
+  
   5.Hospital
   
 🎯 Objective:
@@ -40,8 +55,13 @@ store, update, and retrieve.
 Through this project, I gained practical knowledge of:
 
 *Java programming
+
 *JDBC database connectivity
+
 *SQL queries
+
 *Database design
+
 *CRUD operations
+
 *Connecting Java applications with MySQL
