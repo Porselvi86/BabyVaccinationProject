@@ -1,4 +1,5 @@
 Baby Vaccination Management System
+
 📌 Project Description:
         The Baby Vaccination Management System is a Java-based project developed to manage and maintain vaccination details of babies. 
 The system helps store information about babies, parents, vaccines, hospitals, and vaccination appointments in an organized manner.
@@ -12,7 +13,8 @@ The system helps store information about babies, parents, vaccines, hospitals, a
 📅 Manage vaccination appointments
 📋 Track vaccination history
 🔍 Retrieve vaccination details easily
-🛠️ Technologies Used
+
+🛠️ Technologies Used:
   *Java
   *MySQL
   *JDBC
